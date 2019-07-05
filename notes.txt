@@ -1,0 +1,5 @@
+since this project's main goal is to provide routing (firewalling really comes second), the primary software platform comes from netfilter. the kernel, shell and everything else centers around this one platform.
+can we use protocols other than TCP, UDP on the net?
+Are others doing that? Exotic protocols? 
+
+w
