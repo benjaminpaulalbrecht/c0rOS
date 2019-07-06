@@ -3,3 +3,5 @@ can we use protocols other than TCP, UDP on the net?
 Are others doing that? Exotic protocols? 
 
 w
+All of the firewall sources I've come accross are ancient. does this mean 
+that most of the world has moved on? that the real sex is in something other than firewalls? Have methods and techniques not changed that much?? 
